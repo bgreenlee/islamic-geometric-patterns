@@ -2,4 +2,4 @@
 
 Playing with reproducing patterns in [Islamic Geometric Patterns](https://www.brougs.shop/product/islamic-geometric-patterns-2019-edition-signed-by-author-2/) by Eric Broug, using p5.js.
 
-1. [The Great Mosque of Cordoba](https://editor.p5js.org/bgreenlee/sketches/n2j7dIRI1)
+1. [The Great Mosque of Cordoba](https://editor.p5js.org/bgreenlee/full/n2j7dIRI1)
